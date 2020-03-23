@@ -17,7 +17,7 @@ These tools primarily act as virtual inputs to the system that you can interact 
 
 ### Switch
 
-|![icon](./images/tool-icons/switch.gif)|Tapping the on or off buttons toggles its state and emits a 1 or 0 to anything linked to its node.|
+|<img src="./images/tool-icons/switch.gif" width="100" height="100">|Tapping the on or off buttons toggles its state and emits a 1 or 0 to anything linked to its node.|
 |---|---|
 
 ### Off Button
