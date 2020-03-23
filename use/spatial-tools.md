@@ -17,12 +17,12 @@ These tools primarily act as virtual inputs to the system that you can interact 
 
 ### Switch
 
-|<img src="./images/tool-icons/switch.gif" width="100" height="100">|Tapping the on or off buttons toggles its state and emits a 1 or 0 to anything linked to its node.|
+|<img src="./images/tool-icons/switch.gif" width="200" height="200">|Tapping the on or off buttons toggles its state and emits a 1 or 0 to anything linked to its node.|
 |---|---|
 
 ### Off Button
 
-|![icon](./images/tool-icons/buttonOff.gif)|Tapping it sends a 0 to anything linked to its node.|
+|<img src="./images/tool-icons/buttonOff.gif" width="200"|Tapping it sends a 0 to anything linked to its node.|
 |---|---|
 
 ### On Button
