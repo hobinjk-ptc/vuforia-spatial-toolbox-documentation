@@ -22,7 +22,7 @@ These tools primarily act as virtual inputs to the system that you can interact 
 
 ### Off Button
 
-|<img src="./images/tool-icons/buttonOff.gif" width="200"|Tapping it sends a 0 to anything linked to its node.|
+|<img src="./images/tool-icons/buttonOff.gif" width="200">|Tapping it sends a 0 to anything linked to its node.|
 |---|---|
 
 ### On Button
